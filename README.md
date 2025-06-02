@@ -4,10 +4,9 @@ This repository contains the R code used for simulations and figure generation i
 **“Incentive Structures for Insurer-Enabled Prevention: A Game-Theoretic Model of Occupational Health under Demographic Ageing”** (submitted to *The Geneva Papers on Risk and Insurance - Issues and Practice*).
 
 The code includes:
-- Simulation of absence durations with and without prevention
-- Calculation of rebate thresholds under asymmetric observability
+- Simulation of rebate thresholds under asymmetric observability
 - Modelling of insurer and employer incentives across varying age and risk profiles
-- Generation of figures used in the main text
+- Simulation of absence durations with and without prevention
 
 ### Usage
 All code was written and tested in R (version 4.5.0).  
