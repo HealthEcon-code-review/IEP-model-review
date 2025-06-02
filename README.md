@@ -1,7 +1,7 @@
 # Code Repository – Insurer-Enabled Prevention (IEP) Model
 
 This repository contains the R code used for simulations and figure generation in the manuscript  
-**“Insurer-Enabled Prevention: Strategic Incentives under Sick Pay Insurance”** (submitted to *The Geneva Papers on Risk and Insurance*).
+**“Incentive Structures for Insurer-Enabled Prevention: A Game-Theoretic Model of Occupational Health under Demographic Ageing”** (submitted to *The Geneva Papers on Risk and Insurance - Issues and Practice*).
 
 The code includes:
 - Simulation of absence durations with and without prevention
