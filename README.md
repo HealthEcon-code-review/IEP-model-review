@@ -6,7 +6,7 @@ This repository contains the R code used for simulations and figure generation i
 The code includes:
 - Simulation of rebate thresholds under asymmetric observability
 - Modelling of insurer and employer incentives across varying age and risk profiles
-- Simulation of absence durations with and without prevention
+- Simulation of alternative absence trajectories 
 
 ### Usage
 All code was written and tested in R (version 4.5.0).  
